@@ -1,0 +1,35 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260706-230954-du18",
+      "title": "Haem Senpai",
+      "commanders": [
+        "Haem Senpai"
+      ],
+      "dateStart": "2026-07-07T03:09:54.000Z",
+      "dateEnd": "2026-07-07T03:32:47.000Z",
+      "dateLabel": "7/6/2026, 11:09:54 PM - 7/6/2026, 11:32:47 PM",
+      "url": "https://vexxgw2.github.io/wvwlogs/?report=20260706-230954-du18",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 42,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 26
+      }
+    }
+  ]
+}
