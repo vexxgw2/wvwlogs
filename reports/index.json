@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-223405-kkc8",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "dateStart": "2026-08-01T02:34:05.000Z",
+      "dateEnd": "2026-08-01T03:23:03.000Z",
+      "dateLabel": "7/31/2026, 10:34:05 PM - 7/31/2026, 11:23:03 PM",
+      "url": "https://vexxgw2.github.io/wvwlogs/?report=20260731-223405-kkc8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260718-220019-4z0b",
       "title": "Tràsh Pandà",
       "commanders": [
