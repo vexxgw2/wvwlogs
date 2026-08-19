@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260819-131107-paik",
+      "title": "Madam Brunner",
+      "commanders": [
+        "Madam Brunner"
+      ],
+      "guild": {
+        "id": "739A5017-DE8B-EF11-81AC-95DFE50946EB",
+        "name": "Leaked Nodes",
+        "tag": "Oops"
+      },
+      "dateStart": "2026-08-19T17:11:07.000Z",
+      "dateEnd": "2026-08-19T17:26:12.771Z",
+      "dateLabel": "8/19/2026, 1:11:07 PM - 8/19/2026, 1:26:12 PM",
+      "url": "https://vexxgw2.github.io/wvwlogs/?report=20260819-131107-paik",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260819-124405-z8zb",
       "title": "Madam Brunner",
       "commanders": [
